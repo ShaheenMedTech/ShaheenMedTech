@@ -49,7 +49,7 @@ Includes clinical calculators, emergency algorithms, drug references, responsive
 
 **JavaScript · HTML · CSS · Emergency Medicine**
 
-[Explore Emergency Toolkit →](https://github.com/ShaheenMedTech/Emergency-Toolkit)
+[Live Demo →](https://shaheenmedtech.github.io/Emergency-Toolkit/) · [View Repository →](https://github.com/ShaheenMedTech/Emergency-Toolkit)
 
 ---
 
@@ -73,7 +73,7 @@ Features include cases, tasks, notes, reminders, bilingual Arabic/English suppor
 
 **React · Vite · Tailwind CSS · JavaScript**
 
-[Explore ShiftMate ER →](https://github.com/ShaheenMedTech/ShiftMate-ER)
+[Live Demo →](https://shaheenmedtech.github.io/ShiftMate-ER/) · [View Repository →](https://github.com/ShaheenMedTech/ShiftMate-ER)
 
 ---
 
