@@ -61,7 +61,7 @@ A comprehensive rapid-access clinical reference covering:
 
 Built around sequential algorithms, diagnostic hallmarks, pharmacotherapy, clinical pearls, pitfalls, and disposition guidance.
 
-[Explore the Clinical Reference →](https://github.com/ShaheenMedTech/Emergency---Medicine---and---Resuscitation)
+[Explore the Clinical Reference →](https://github.com/ShaheenMedTech/Emergency-Medicine-and-Resuscitation)
 
 ---
 
